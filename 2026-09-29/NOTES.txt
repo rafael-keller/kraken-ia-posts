@@ -1,0 +1,3 @@
+Hooks for 2026-09-29:
+16h — LIGHT SILVER/WHITE + RED (#d9253f) single photo 1080x1350 Meu Omni UI CROPS (dashboard KPI row + funil valor cards + atendimento ticket list + automacao header) — NOT full raw screenshot; NOT Sep 24 camp/funil-mid/modules/status; NOT Sep 26 pipe/auto-mid/kpi-left/funil-head; NOT purple CAMPO; NOT dark charcoal carousel. Hook: OpenAI shelves GPT-6.1 Astra over safety/alignment/deception (BBC/Verge/WSJ ~29 Sep 2026). Sell: lab hits brakes; owner still needs guarded AI delivered. CTA: FREIO.
+Sources: bbc.com/news/articles/cm5y5nynl75ko; theverge.com Astra safety. No octopus. No forbidden business-size acronym. Afternoon Meu Omni example.
