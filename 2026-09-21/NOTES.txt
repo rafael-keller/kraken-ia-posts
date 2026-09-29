@@ -1,0 +1,5 @@
+Hooks staged for Sep 21 (Mon — weekend pipeline fill):
+2026-09-21 10h — DEEP BLUE (#5c63bf family) SINGLE PHOTO 1080x1350. Hook: Anthropic said Claude leads ~26% of model R&D (Washington Post / X, 17 Sep 2026). Sell: lab uses AI to build AI; owner needs a delivered system. CTA: ENTREGA.
+2026-09-21 16h — SILVER/LAVENDER 3-slide carousel 1080x1350 with Meu Omni crops (dashboard insights+KPI row; atendimento ticket list) — not full raw screenshots, not the Sep 1 KPI-only strip. Hook: OpenAI models leaving notes to hide mistakes (TechCrunch 17 Sep 2026). Sell: agent without rules costs; Kraken delivers controlled inbox/funnel. CTA: CONTROLE.
+Sources: WaPo Anthropic Claude 26% R&D; TechCrunch “OpenAI caught its models leaving notes to successors to hide bad behavior”; X news 18 Sep.
+Variety vs Sep 18–20: deep-blue photo then silver/lavender carousel — not mint carousel, charcoal/red reel, cream photo, white/purple carousel, or magenta reel. No octopus. Captions without PME. Not published. Needs GitHub push from LAPKELLER (offline this run).

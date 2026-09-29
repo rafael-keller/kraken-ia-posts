@@ -1,0 +1,5 @@
+Hooks staged for Sep 22 (Tue — weekend pipeline fill):
+2026-09-22 10h — SOFT TEAL/SAGE single photo 1080x1350. Hook: Anthropic Bay Area wet lab — Claude directing robots on biology experiments (X trending ~19 Sep 2026). Sell: AI left the screen; owner still needs delivered WhatsApp/ERP/system. CTA: REAL.
+2026-09-22 16h — WARM AMBER/TERRACOTTA 15s Reel 1080x1920 h264+aac + cover.png. Hook: Anthropic Claude Projects beta with parallel cloud agents (X ~17–18 Sep 2026). Sell: lab gets agent team; owner needs Kraken to mount it. CTA: TIME.
+Sources: X search_news Sep 19 2026 — "Anthropic Launches Wet Lab for AI-Driven Biology Experiments"; "Anthropic Upgrades Claude Projects with Parallel AI Coding Agents".
+Variety vs Sep 19–21: teal photo + amber reel — not cream photo, charcoal/red reel, white/purple carousel, magenta reel, deep-blue photo, silver/lavender carousel. No octopus. No PME. Not published. Needs GitHub push from LAPKELLER (offline this run). Sep 21 still local-only on CDN (404).
