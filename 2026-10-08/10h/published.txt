@@ -1,0 +1,12 @@
+published: yes
+slot: 2026-10-08/10h
+cta: VENDA
+format: bright red/magenta kinetic 15s Reel (REELS) with cover
+hook: Voice Arena Sales Agent Eval (AI voice agents vs human telesales reps)
+media_id: 17909788095475263
+permalink: https://www.instagram.com/reel/DePCMT4EZ_N/
+cdn_sha: 221532d0960588044e3c86a0fea920bfd8e2f21a
+video_url: https://cdn.jsdelivr.net/gh/rafael-keller/kraken-ia-posts@221532d0960588044e3c86a0fea920bfd8e2f21a/2026-10-08/10h/reel.mp4
+cover_url: https://cdn.jsdelivr.net/gh/rafael-keller/kraken-ia-posts@221532d0960588044e3c86a0fea920bfd8e2f21a/2026-10-08/10h/cover.png
+assets: /workspace/kraken-ia-posts/2026-10-08/10h/
+published_at: 2026-10-08T10:24:59-03:00
