@@ -1,0 +1,1 @@
+skipped 2026-10-30: Rafael chose skip stale slots; resume Oct 31
