@@ -1,0 +1,13 @@
+Posts staged for Nov 26 (Thu). Generators: /workspace/stage_20261126/reel.py (10h) and /workspace/stage_20261126/carousel.py (16h), shared helpers common.py.
+
+10h — TEAL / CREAM + CORAL 15s no-face REEL 1080x1920 (reel.mp4, h264 + aac soft 220 Hz tone at low volume, 30fps) + cover.png 1080x1920. Kinetic typography in 5 scenes: "1 CARA. 5 PANELAS." with animated woks -> "ENGENHEIRO EM 2026 / ORQUESTRANDO AGENTES" with 5 progress bars -> "NA SUA EMPRESA: 1 PESSOA. 1 CELULAR. TUDO NA MÃO." with phone + message bubbles ("Deixa, comprei em outro lugar.") -> "A KRAKEN MONTA AS SUAS PANELAS." (4 agent/system bullets) -> "VOCÊ USA. A GENTE CONSTRÓI. / MANDA DM: PANELA". No Meu Omni UI, no mascot.
+  Hook: viral video by Jaydeep (@_jaydeepkarale), Nov 23, 2026 (~01:13 São Paulo time): "Software Engineers in 2026 Orchestrating Claude, Codex, Cursor, Antigravity and other agents." 9s clip of a cook pouring oil across a row of automatic stir-fry woks. At check time (Nov 24 ~09:50 São Paulo time): ~1.31M views, 19.7k likes, 2.2k reposts.
+  Source: https://x.com/_jaydeepkarale/status/2124717898203849052 (X news story: https://x.com/i/trending/2124845437190598929)
+  CTA: PANELA
+
+16h — RED (#d9253f) -> MAGENTA gradient on WHITE/BLUSH 3-slide CAROUSEL 1080x1350 (feed-1.png, feed-2.png, feed-3.png). Envelope "5 MIN" -> gradient "EM 1 MÊS" card; slide 2 checklist of "À MÃO" tasks; slide 3 numbered steps + gradient CTA card. No Meu Omni UI, no mascot.
+  Hook: Anthropic research "Working with AI" (Nov 23, 2026; Wilmers, Massenkoff, McCrory) — 66 interviews with 58 US enterprise customers. Story used: midsize law firm mailroom, 5 minutes per scanned letter (open, skim, rename, file); a senior developer built an AI system in a month that names each document and files it. Study says highest-value uses came with reorganizing work, not just handing out tools. Not a representative sample (stated by Anthropic).
+  Source: https://www.anthropic.com/research/working-with-ai ; X news story: https://x.com/i/trending/2125129775924855076
+  CTA: MINUTOS
+
+Not yet published.

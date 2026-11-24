@@ -1,0 +1,11 @@
+No X: a Anthropic, dona do Claude, publicou o estudo "Working with AI" — 66 entrevistas em 58 empresas dos EUA que já estão usando IA. Uma das histórias: num escritório de advocacia, cada carta escaneada levava 5 minutos pra alguém abrir, ler, renomear e arquivar. Em um mês, um desenvolvedor da casa montou a IA que dá o nome e guarda o documento no lugar certo.
+
+Lá fora, a empresa grande tem um dev em casa pra fazer isso. Na sua empresa, os "5 minutos" estão por todo lado: passar pedido do WhatsApp pra planilha, montar orçamento do zero, caçar nota e boleto no e-mail, responder "qual o preço?" o dia inteiro. Tudo à mão, tudo com a mesma pessoa.
+
+E enquanto isso o orçamento fica sem resposta. O cliente não espera — comprou do concorrente.
+
+A Kraken é o dev que a sua empresa não tem: a gente acha o trabalho repetido do seu dia, constrói a IA, o agente ou o sistema sob medida e entrega funcionando no que você já usa. Você usa. A gente constrói.
+
+Manda um DM: MINUTOS
+
+#KrakenIA #InteligênciaArtificial #IAparaEmpresas #Automação
