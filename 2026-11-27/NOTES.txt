@@ -1,0 +1,13 @@
+Posts staged for Nov 27 (Fri). Generators: /workspace/stage_20261127_28/photo27.py (10h) and /workspace/stage_20261127_28/reel27.py (16h), shared helpers common.py.
+
+10h — WARM PAPER WHITE + BLUE (#5c63bf) / LAVENDER + charcoal single PHOTO 1080x1350 (feed.png), dotted-grid paper, quote headline "VELOCIDADE NÃO ERA O PROBLEMA. DIREÇÃO ERA." + lavender panel: scattered arrows ("PRIMEIRAS SEMANAS: Nunca andamos tão rápido.") vs arrow-into-target ("1 MÊS DEPOIS: Todo mundo voltou pro trabalho antigo." / "o que faltou: direção"). No Meu Omni UI, no mascot.
+  Hook: Lenny Rachitsky (@lennysan), Nov 23, 2026 (~12:00 São Paulo time): Atlassian tried teams where everyone was an "AI builder" — no PM or designer roles. First weeks: "We've moved faster than ever before." A month in, everyone had gone back to their old jobs. PM's explanation (quoted in replies/news story): throughput isn't the problem, direction is. ~639k views at check time (Nov 25 ~10:00 São Paulo time).
+  Source: https://x.com/lennysan/status/2124880663149002996 (follow-up https://x.com/lennysan/status/2125350795411685880); X news story https://x.com/i/trending/2125414482792841610
+  CTA: DIREÇÃO
+
+16h — DEEP PURPLE (#7e29bb / near-black aubergine) + HOT PINK / BLUSH 15s no-face REEL 1080x1920 (reel.mp4, h264 + aac soft 262 Hz tone at low volume, 30fps) + cover.png 1080x1920. Kinetic typography in 5 scenes: "PALAVRA NOVA NO X: WORKSLOP" with sparkles -> "BONITO POR FORA. VAZIO POR DENTRO." glossy report card that cracks + stamp "ALGUÉM CONSERTA" -> "NA SUA EMPRESA: A RESPOSTA BONITA COM O PREÇO ERRADO." phone chat (bot answers wrong price, client: "Deixa, comprei em outro lugar.") -> "A KRAKEN CONSTRÓI IA QUE SABE O QUE FALA." (4 bullets) -> "VOCÊ USA. A GENTE CONSTRÓI. / MANDA DM: CAPRICHO". Prices in the chat are an illustrative example, not a stat. No Meu Omni UI, no mascot.
+  Hook: @unusual_whales, Nov 24, 2026 (~11:57 São Paulo time): "Bosses who pushed AI at work are now drowning in 'workslop,' the polished-looking but low-quality AI output that colleagues have to fix, per Business Insider. Some companies are responding with new AI policies and even firings." ~725k views, 11.2k likes at check time.
+  Source: https://x.com/unusual_whales/status/2125242284274774506 ; X news story https://x.com/i/trending/2125434160504332346
+  CTA: CAPRICHO
+
+Not yet published.

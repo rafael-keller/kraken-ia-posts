@@ -1,0 +1,13 @@
+Posts staged for Nov 28 (Sat). Generators: /workspace/stage_20261127_28/car28.py (10h) and /workspace/stage_20261127_28/photo28.py (16h), shared helpers common.py.
+
+10h — PEACH / TANGERINE + warm charcoal 3-slide CAROUSEL 1080x1350 (feed-1.png, feed-2.png, feed-3.png). Slide 1 headline "A IA DEU A RESPOSTA ERRADA. E AS PESSOAS FORAM JUNTO EM CERCA DE 80% DAS VEZES." + stat chips 1.372 pessoas / 9.593 testes; slide 2 "E A CONFIANÇA SUBIU. MESMO ERRANDO." + "NA SUA EMPRESA" chat card (wrong delivery promise, "(ninguém conferiu o estoque)"); slide 3 "IA BOA NÃO É A QUE FALA BONITO. É A QUE CONFERE ANTES." 3 numbered points + charcoal CTA card. No Meu Omni UI, no mascot.
+  Hook: "Cognitive Surrender" — Wharton (Shaw & Nave), 3 preregistered experiments, 1,372 participants, 9,593 trials, AI secretly rigged to give wrong answers part of the time; when AI was wrong people still adopted its answer ~80% of the time (Wharton Magazine: "more than 80 percent"; Ars Technica: 80%) and confidence went up even after errors. Viral X post by @thesupermannx, Nov 22, 2026 (~07:30 São Paulo time), ~485k views, 5.2k likes.
+  Source: https://x.com/thesupermannx/status/2124450520056377395 ; X news story https://x.com/i/trending/2124648769782182365 ; paper https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646 ; https://magazine.wharton.upenn.edu/issues/fall-winter-2026/is-ai-hijacking-our-brains/
+  CTA: CONFERE
+
+16h — CHARCOAL (#434343) -> SILVER gradient + RED (#d9253f) single PHOTO 1080x1350 (feed.png). Quote headline "COM IA, ISSO É UM PROMPT. UMA HORA DEPOIS, ESTÁ PRONTO." + diagram: 4 tilted "mensalidade" cards (CRM, AGENDA, PLANILHA, FINANCEIRO) -> white "SEU SISTEMA" card (seus clientes / seus pedidos / seu jeito / seus dados). No Meu Omni UI, no mascot.
+  Hook: Danny Postma (@dannypostma, HeadshotPro founder), Nov 20, 2026 (~20:41 São Paulo time): switching off hosted platforms/tools and reverse-engineering only the parts he needs — own his data, customize it; "With AI that's a prompt, and one hour later it's done." ~414k views, 1.6k likes at check time. X news story: "AI Pushes Developers Toward Self-Hosting Over SaaS".
+  Source: https://x.com/dannypostma/status/2123924805938450940 ; X news story https://x.com/i/trending/2124167029402096085
+  CTA: MEDIDA
+
+Not yet published.
