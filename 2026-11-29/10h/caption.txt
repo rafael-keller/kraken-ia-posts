@@ -1,11 +1,9 @@
-No X: um vídeo de uma reunião com quatro IAs (quatro Claudes, da Anthropic) — Estrategista, Pesquisador, Desenvolvedor e Estagiário — passou de 4,7 milhões de visualizações. A graça? No meio da "reunião rápida de 5 minutos", o Desenvolvedor cai: limite de uso atingido, volta às 17h.
+21h47, o cliente manda: "Vocês entregam amanhã?" Ninguém responde. Ele insiste. De manhã chega o "já fechei com outro."
 
-Lá fora, isso é meme de quem brinca com IA. Na sua empresa, é o cliente que manda mensagem às 21h47 perguntando se tem entrega amanhã... e ninguém responde.
+Viralizou no X um vídeo de uma reunião com quatro IAs — quatro Claudes, da Anthropic: Estrategista, Pesquisador, Desenvolvedor e Estagiário. Passou de 4,7 milhões de visualizações. A graça? No meio da "reunião rápida de 5 minutos", o Desenvolvedor cai. Limite de uso atingido, volta às 17h.
 
-A conversa desce, o orçamento fica sem resposta e, de manhã, chega o "já fechei com outro". O cliente não espera até as 17h.
+Dá pra rir, né. Só que o seu cliente não espera até as 17h.
 
-A Kraken constrói IA de plantão pra sua empresa: agente que responde na hora, manda orçamento com o seu preço, agenda, cobra e avisa você quando precisa de gente. Sob medida, ligado no seu negócio, sem depender do celular de uma pessoa só. Você usa. A gente constrói.
+A Kraken faz uma IA de plantão pra sua empresa: responde na hora, manda orçamento com o seu preço, agenda, cobra e te chama quando precisa de gente. Sem depender de um celular só.
 
-Manda um DM: PLANTÃO
-
-#KrakenIA #InteligênciaArtificial #DonoDeEmpresa #AgentesDeIA
+Quer isso no atendimento? Escreve PLANTÃO pra gente.

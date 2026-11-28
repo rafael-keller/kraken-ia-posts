@@ -1,11 +1,9 @@
-No X: a Telos Lab lançou o Telos-Live-1, uma IA que vê, ouve e fala ao mesmo tempo, e continua a conversa enquanto pesquisa, usa ferramentas e mexe no computador. O vídeo de lançamento passou de 1,2 milhão de visualizações.
+"Só um minutinho, que eu vou ver..."
 
-Lá fora, a IA já não precisa pedir "um momento" pra pensar. Na sua empresa, o cliente liga perguntando preço e prazo e escuta: "só um minutinho, que eu vou ver..."
+Você já falou isso no telefone. Já deixou o cliente no WhatsApp com um "já te retorno". Já foi olhar preço, a ligação caiu, e quando voltou a conversa tinha esfriado.
 
-Fica na espera, a ligação cai, a mensagem fica sem resposta. O cliente não espera: comprou do concorrente.
+Enquanto isso, a Telos Lab lançou o Telos-Live-1: uma IA que vê, ouve e fala ao mesmo tempo, e segue conversando enquanto pesquisa, consulta o que precisa e mexe no computador. O vídeo de lançamento passou de 1,2 milhão de visualizações.
 
-A Kraken constrói atendente de IA pra sua empresa: atende ligação e WhatsApp, consulta estoque, preço e agenda enquanto conversa, e passa pra você quando precisa de gente. Sob medida, ligado nos seus dados, entregue funcionando. Você usa. A gente constrói.
+Dá pra ter um atendimento assim, com os dados da sua empresa. A Kraken constrói um atendente de IA que pega ligação e WhatsApp, consulta estoque, preço e agenda na hora, e te passa a bola quando precisa de gente.
 
-Manda um DM: MINUTINHO
-
-#KrakenIA #InteligênciaArtificial #DonoDeEmpresa #AtendimentoComIA
+Quer largar o "só um minutinho"? Responde com MINUTINHO.
